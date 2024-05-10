@@ -1,0 +1,8 @@
+ Volume in drive C has no label.
+ Volume Serial Number is EC80-EC58
+
+ Directory of C:\Users\DELL\Desktop\Project files for git and git hub
+
+05/10/2024  12:33 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               0 Dir(s)  101,377,269,760 bytes free
